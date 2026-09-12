@@ -1,4 +1,4 @@
-module github.com/jesusaguado/goadd
+module github.com/jesusaguado/goadd/v2
 
 go 1.27.0
 
